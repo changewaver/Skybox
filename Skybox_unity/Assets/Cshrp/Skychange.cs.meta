@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 02d9a5814a1e93c4bafd5d00766f1e86
+timeCreated: 1489367046
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mySkyBoxMat: {fileID: 2100000, guid: 8185c62f5ccafe247bd3d1a04315857d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
